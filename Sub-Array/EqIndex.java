@@ -2,7 +2,8 @@
 
 class EqIndex{
 	public static void main(String[] args){
-		int[] arr = new int[]{-7,1,5,2,-4,3,0};
+		//int[] arr = new int[]{-7,1,5,2,-4,3,0};
+		int[] arr = new int[]{1,2,3};
 		System.out.println(eqInd(arr));
 
 	}
